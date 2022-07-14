@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A delivery app as a monorepo with strapi as a backend and remix for application. Also it uses Astro for static pages like landing, blog and news.",
   "main": "index.js",
+  "private": true,
   "workspaces": [
     "./packages/*",
     "./app",

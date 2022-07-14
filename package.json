@@ -1,0 +1,35 @@
+{
+  "name": "deliver-me-to-the-kitchen",
+  "version": "1.0.0",
+  "description": "A delivery app as a monorepo with strapi as a backend and remix for application. Also it uses Astro for static pages like landing, blog and news.",
+  "main": "index.js",
+  "workspaces": [
+    "./packages/*",
+    "./app",
+    "./backend",
+    "./site"
+  ],
+  "keywords": [
+    "Delivery",
+    "App",
+    "remix",
+    "strapi",
+    "remix",
+    "astro",
+    "javascript",
+    "typescript"
+  ],
+  "license": "GPL-3.0",
+  "author": {
+    "email": "enes.cagliyan@gmail.com",
+    "name": "Enes Çağlıyan",
+    "url": "https://github.com/enescagl"
+  },
+  "contributors": [
+    {
+      "email": "",
+      "name": "",
+      "url": ""
+    }
+  ]
+}
